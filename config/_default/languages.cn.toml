@@ -1,12 +1,12 @@
 disabled = false
 languageCode = "en"
-languageName = "English"
+languageName = "Chinese"
 weight = 1
 title = "m4rsquake's blog"
 
 [params]
-  displayName = "EN"
-  isoCode = "en"
+  displayName = "CN"
+  isoCode = "cn"
   rtl = false
   dateFormat = "2 January 2006"
   # logo = "img/logo.png"
