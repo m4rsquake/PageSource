@@ -1,7 +1,7 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Blowfish"
+title = "msg | a hub for all"
 
 [params]
   displayName = "English"
@@ -9,13 +9,13 @@ title = "Blowfish"
   rtl = false
   dateFormat = "2 January 2006"
   logo = "img/profile_photo.jpg"
-  description = "A powerful, lightweight theme for Hugo."
+  description = "msg is a hub for all | in development"
 
 [params.author]
   name = "msg"
   email = "m4rsquake@outlook.com"
   image = "img/profile_photo.jpg"
-  headline = "The better we get at getting better, the faster we will get better."
+  headline = "msg, from message/m4rsquake's surface go."
   bio = "Learning Hugo."
   links = [
     { github = "https://github.com/m4rsquake" },
