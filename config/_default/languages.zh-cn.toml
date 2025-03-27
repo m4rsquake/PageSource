@@ -1,22 +1,21 @@
 languageCode = "zh-cn"
 languageName = "简体中文"
-weight = 4
-title = "Blowfish"
+weight = 1
+title = "m4rsquake 的主页"
 
 [params]
   displayName = "简体中文"
   isoCode = "zh-cn"
   rtl = false
   dateFormat = "2006-01-02"
-  logo = "img/blowfish_logo_transparent.png"
-  description = "一个强大、轻量级的 Hugo 主题。"
+  # logo = "img/profile_photo.jpg"
+  description = "这是简体中文页面。"
 
 [params.author]
-  name = "Blowfish"
-  image = "img/blowfish_logo.png"
-  headline = "一个强大、轻量级的 Hugo 主题。"
-  bio = "一个强大、轻量级的 Hugo 主题。"
+  name = "m4rsquake"
+  image = "img/profile_photo.jpg"
+  headline = "蒟蒻一枚"
+  bio = "研究生在读。"
   links = [
-    { x-twitter = "https://twitter.com/burufugu" },
-    { github = "https://github.com/nunocoracao/blowfish" },
+    { github = "https://github.com/m4rsquake/PageSource" },
   ]
