@@ -57,7 +57,7 @@ smartTOCHideUnfocusedChildren = false
   showDateUpdated = true
   showAuthor = false
   showAuthorBottom = false
-  showHero = true
+  showHero = false
   heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background
   showBreadcrumbs = true # 展示面包屑导航
@@ -76,7 +76,7 @@ smartTOCHideUnfocusedChildren = false
   showTaxonomies = true 
   showAuthorsBadges = true 
   showWordCount = true
-  sharingLinks = [ "linkedin", "twitter", "bluesky", "reddit", "whatsapp", "telegram", "pinterest", "facebook", "email"]
+  sharingLinks = [ "twitter", "reddit", "whatsapp", "telegram", "facebook", "email"]
   showZenMode = true
 
 [list]
