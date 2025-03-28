@@ -29,7 +29,6 @@ googleAnalytics = "G-PEDMYR1V0K"
 [taxonomies]
   tag = "tags"
   category = "categories"
-  author = "authors"
   series = "series"
 
 [sitemap]

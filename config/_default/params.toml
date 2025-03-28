@@ -146,14 +146,14 @@ smartTOCHideUnfocusedChildren = false
 
 [buymeacoffee]
   # identifier = "nunocoracao"
-  #globalWidget = true
-  #globalWidgetMessage = ""
-  #globalWidgetColor = "#FFDD00"
-  #globalWidgetPosition = "Right"
+  # globalWidget = true
+  # globalWidgetMessage = ""
+  # globalWidgetColor = "#FFDD00"
+  # globalWidgetPosition = "Right"
 
 [verification]
-  # google = ""
-  # bing = ""
+  google = "s9nH6v3Fme8M9ZFkKh5ATK1zr95FvcmFurvsKfyGSIs"
+  bing = "DF72F5D705C5B3523D8B2F45FE5146D2"
   # pinterest = ""
   # yandex = ""
 

@@ -3,21 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://m4rsquake.github.io/en/authors/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="https://m4rsquake.github.io/authors/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://m4rsquake.github.io/en/authors/"
-    />
-  </url>
-  <url>
     <loc>https://m4rsquake.github.io/en/categories/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
