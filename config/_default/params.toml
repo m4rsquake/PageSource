@@ -11,6 +11,7 @@ autoSwitchAppearance = true
 
 enableSearch = true
 enableCodeCopy = true
+showComments = false # 显示评论
 
 replyByEmail = false
 
