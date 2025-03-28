@@ -17,12 +17,17 @@
 #  weight = 1000
 
 
+[[main]]
+  name = "Pages"
+  pageRef = "pages"
+  weight = 10
 
 [[main]]
   identifier = "github"
   pre = "github"
   url = "https://github.com/m4rsquake/PageSource"
   weight = 50
+
 
 
 # -- Footer Menu --

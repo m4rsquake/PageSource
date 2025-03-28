@@ -10,6 +10,10 @@
 # overridden by providing a weight value. The menu will then be
 # ordered by weight from lowest to highest.
 
+[[main]]
+  name = "全部页面"
+  pageRef = "pages"
+  weight = 10
 
 [[main]]
   identifier = "github"
@@ -17,10 +21,7 @@
   url = "https://github.com/m4rsquake/Pagesource"
   weight = 50
 
-[[main]]
-  name = "全部文章"
-  pageRef = "article"
-  weight = 10
+
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before

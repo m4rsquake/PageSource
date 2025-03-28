@@ -15,8 +15,8 @@ title = "m4rsquake's homepage"
   name = "m4rsquake"
   email = "m4rsquake@outlook.com"
   image = "img/profile_photo.jpg"
-  headline = "msg, from message/m4rsquake's surface go."
-  bio = "Learning Hugo."
+  headline = "msg, name from message/m4rsquake's surface go."
+  bio = "Studying nuclear technology and applications."
   links = [
     { github = "https://github.com/m4rsquake" },
   ]

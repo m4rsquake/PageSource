@@ -14,7 +14,7 @@ enableCodeCopy = true
 
 replyByEmail = false
 
-mainSections = ["article"]
+mainSections = ["pages"]
 # robots = ""
 
 disableImageOptimization = false
@@ -29,7 +29,7 @@ smartTOC = true
 smartTOCHideUnfocusedChildren = false
 
 [header]
-  layout = "fixed" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
+  layout = "basic" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
 
 [footer]
   showMenu = true
@@ -50,24 +50,24 @@ smartTOCHideUnfocusedChildren = false
   layoutBackgroundBlur = true # only used when layout equals background
 
 [article]
-  showDate = false
-  showViews = false
-  showLikes = false
+  showDate = true
+  showViews = true
+  showLikes = true
   showDateOnlyInArticle = false
-  showDateUpdated = false
-  showAuthor = true
-  # showAuthorBottom = false
+  showDateUpdated = true
+  showAuthor = false
+  showAuthorBottom = false
   showHero = true
   heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background
-  showBreadcrumbs = true
+  showBreadcrumbs = true # 展示面包屑导航
   showDraftLabel = true
   showEdit = true
-  editURL = "https://github.com/nunocoracao/blowfish/tree/main/exampleSite/content"
+  editURL = "https://github.com/m4rsquake/PageSource/tree/main/content"
   editAppendPath = true
   seriesOpened = false
-  showHeadingAnchors = true
-  showPagination = true
+  showHeadingAnchors = false
+  showPagination = false
   invertPagination = false
   showReadingTime = true
   showTableOfContents = true
@@ -75,7 +75,7 @@ smartTOCHideUnfocusedChildren = false
   relatedContentLimit = 6
   showTaxonomies = true 
   showAuthorsBadges = true 
-  showWordCount = false
+  showWordCount = true
   sharingLinks = [ "linkedin", "twitter", "bluesky", "reddit", "whatsapp", "telegram", "pinterest", "facebook", "email"]
   showZenMode = true
 
@@ -134,7 +134,7 @@ smartTOCHideUnfocusedChildren = false
   # domain = "llama.yoursite.com"
 
 [umamiAnalytics]
-  # websiteid = "ABC12345"
+  websiteid = "f931da9f-2444-4d77-8d1c-f57db5d1841e"
   # domain = "llama.yoursite.com"
   # dataDomains = "yoursite.com,yoursite2.com"
   # scriptName = ""
@@ -145,17 +145,17 @@ smartTOCHideUnfocusedChildren = false
   # enableTrackEvent = false
 
 [buymeacoffee]
-  # identifier = "nunocoracao"
-  # globalWidget = true
-  # globalWidgetMessage = ""
-  # globalWidgetColor = "#FFDD00"
-  # globalWidgetPosition = "Right"
+  identifier = "m4rsquake"
+  globalWidget = true
+  globalWidgetMessage = ""
+  globalWidgetColor = "#FFDD00"
+  globalWidgetPosition = "Right"
 
 [verification]
   google = "s9nH6v3Fme8M9ZFkKh5ATK1zr95FvcmFurvsKfyGSIs"
   bing = "DF72F5D705C5B3523D8B2F45FE5146D2"
   # pinterest = ""
-  # yandex = ""
+  yandex = "ca80a7afa4c6356e"
 
 [rssnext]
   # feedId = ""
