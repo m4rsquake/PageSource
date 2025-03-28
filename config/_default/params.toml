@@ -50,9 +50,9 @@ smartTOCHideUnfocusedChildren = false
   layoutBackgroundBlur = true # only used when layout equals background
 
 [article]
-  showDate = true
-  showViews = true
-  showLikes = true
+  showDate = false
+  showViews = false
+  showLikes = false
   showDateOnlyInArticle = false
   showDateUpdated = true
   showAuthor = false
