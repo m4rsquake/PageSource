@@ -3,7 +3,7 @@ title: "树莓派4B使用docker运行openwrt实现无线路由"
 description: "树莓派4B使用docker运行openwrt实现无线路由"
 weight: 1
 draft: false
-tags: ["折腾", "教程"]
+tags: ["openWrt", "docker", "树莓派", "折腾", "教程"]
 ---
 
 ### 前言

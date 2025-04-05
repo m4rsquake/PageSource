@@ -16,6 +16,34 @@
                 href="https://m4rsquake.github.io/zh-cn/pages/raspberrypi_docker_wifi/"
                 />
   </url><url>
+    <loc>https://m4rsquake.github.io/zh-cn/pages/qt_01/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://m4rsquake.github.io/pages/qt_01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://m4rsquake.github.io/zh-cn/pages/qt_01/"
+                />
+  </url><url>
+    <loc>https://m4rsquake.github.io/zh-cn/tags/c&#43;&#43;/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://m4rsquake.github.io/tags/c&#43;&#43;/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://m4rsquake.github.io/zh-cn/tags/c&#43;&#43;/"
+                />
+  </url><url>
     <loc>https://m4rsquake.github.io/zh-cn/categories/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
@@ -28,6 +56,20 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="https://m4rsquake.github.io/zh-cn/categories/"
+                />
+  </url><url>
+    <loc>https://m4rsquake.github.io/zh-cn/tags/docker/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://m4rsquake.github.io/tags/docker/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://m4rsquake.github.io/zh-cn/tags/docker/"
                 />
   </url><url>
     <loc>https://m4rsquake.github.io/zh-cn/pages/</loc>
@@ -56,6 +98,48 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="https://m4rsquake.github.io/zh-cn/"
+                />
+  </url><url>
+    <loc>https://m4rsquake.github.io/zh-cn/tags/openwrt/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://m4rsquake.github.io/tags/openwrt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://m4rsquake.github.io/zh-cn/tags/openwrt/"
+                />
+  </url><url>
+    <loc>https://m4rsquake.github.io/zh-cn/tags/qprocess/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://m4rsquake.github.io/tags/qprocess/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://m4rsquake.github.io/zh-cn/tags/qprocess/"
+                />
+  </url><url>
+    <loc>https://m4rsquake.github.io/zh-cn/tags/qt/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://m4rsquake.github.io/tags/qt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://m4rsquake.github.io/zh-cn/tags/qt/"
                 />
   </url><url>
     <loc>https://m4rsquake.github.io/zh-cn/series/</loc>
@@ -87,6 +171,10 @@
                 />
   </url><url>
     <loc>https://m4rsquake.github.io/zh-cn/tags/%E6%95%99%E7%A8%8B/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://m4rsquake.github.io/zh-cn/tags/%E6%A0%91%E8%8E%93%E6%B4%BE/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url><url>

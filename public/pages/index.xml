@@ -16,5 +16,12 @@
       <guid>https://m4rsquake.github.io/pages/raspberrypi_docker_wifi/</guid>
       <description>&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;&#xA;&lt;p&gt;Although the Raspberry Pi 4B has relatively strong performance, its network interface is not excellent, only suitable as a 100Mbps wireless router. Deploying OpenWrt via Docker allows the Raspberry Pi to function as a router while hosting other services. Note: This setup is more about tinkering than practical use, and using Docker for multiple services might cause instability in the wireless soft router.&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>Qt QProcess setWorkingDirectory Not Working on Windows System</title>
+      <link>https://m4rsquake.github.io/pages/qt_01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>m4rsquake@outlook.com (m4rsquake)</author>
+      <guid>https://m4rsquake.github.io/pages/qt_01/</guid>
+      <description>&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;&#xA;&lt;p&gt;Recently, while working on a project using Qt, I noticed that even after setting the working directory for QProcess, it still couldn’t find the file, resulting in a failed startup. After researching online and reading the official documentation, I gained a clearer understanding of this issue.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
