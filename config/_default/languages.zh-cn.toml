@@ -14,8 +14,8 @@ title = "m4rsquake 的主页"
 [params.author]
   name = "m4rsquake"
   image = "img/profile_photo.jpg"
-  headline = "蒟蒻一枚"
-  bio = "研究生在读。"
+  headline = "总结中深刻，输出中精进"
+  bio = "蒟蒻一枚"
   links = [
     { github = "https://github.com/m4rsquake/PageSource" },
   ]
