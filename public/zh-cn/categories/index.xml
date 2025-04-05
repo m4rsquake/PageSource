@@ -4,8 +4,10 @@
     <title>Categories on m4rsquake 的主页</title>
     <link>https://m4rsquake.github.io/zh-cn/categories/</link>
     <description>Recent content in Categories on m4rsquake 的主页</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
+    <copyright>© 2025 m4rsquake</copyright>
     <atom:link href="https://m4rsquake.github.io/zh-cn/categories/index.xml" rel="self" type="application/rss+xml" />
+    
   </channel>
 </rss>
