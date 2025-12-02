@@ -1,13 +1,24 @@
 # -- Markup --
-# These settings are required for the theme to function.
+# Hextra theme markup configuration
 
 [goldmark]
-[goldmark.renderer]
-  unsafe = true
+  [goldmark.renderer]
+    unsafe = true  # 允许在 Markdown 中使用 HTML
 
 [highlight]
+  anchorLineNos = false
+  codeFences = true
+  guessSyntax = true
+  hl_Lines = ''
+  lineNoStart = 1
+  lineNos = false
+  lineNumbersInTable = true
   noClasses = false
+  noHl = false
+  style = 'github-dark'
+  tabWidth = 4
 
 [tableOfContents]
   startLevel = 2
   endLevel = 4
+  ordered = false
