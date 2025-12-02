@@ -1,20 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Series on m4rsquake&#39;s homepage</title>
+    <title>m4rsquake&#39;s homepage – Series</title>
     <link>http://localhost:1313/series/</link>
     <description>Recent content in Series on m4rsquake&#39;s homepage</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-      <managingEditor>m4rsquake@outlook.com (m4rsquake)</managingEditor>
+	  <atom:link href="http://localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
     
     
-      <webMaster>m4rsquake@outlook.com (m4rsquake)</webMaster>
+      
+        
+      
     
     
-    
-    
-    <atom:link href="http://localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

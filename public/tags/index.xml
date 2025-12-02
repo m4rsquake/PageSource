@@ -1,76 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on m4rsquake&#39;s homepage</title>
+    <title>m4rsquake&#39;s homepage – Tags</title>
     <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on m4rsquake&#39;s homepage</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-      <managingEditor>m4rsquake@outlook.com (m4rsquake)</managingEditor>
+	  <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
-      <webMaster>m4rsquake@outlook.com (m4rsquake)</webMaster>
+      
+        
+      
     
     
-    
-    
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>C&#43;&#43;</title>
-      <link>http://localhost:1313/tags/c&#43;&#43;/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>m4rsquake@outlook.com (m4rsquake)</author>
-      <guid>http://localhost:1313/tags/c&#43;&#43;/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Docker</title>
-      <link>http://localhost:1313/tags/docker/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>m4rsquake@outlook.com (m4rsquake)</author>
-      <guid>http://localhost:1313/tags/docker/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>OpenWrt</title>
-      <link>http://localhost:1313/tags/openwrt/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>m4rsquake@outlook.com (m4rsquake)</author>
-      <guid>http://localhost:1313/tags/openwrt/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>QProcess</title>
-      <link>http://localhost:1313/tags/qprocess/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>m4rsquake@outlook.com (m4rsquake)</author>
-      <guid>http://localhost:1313/tags/qprocess/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Qt</title>
-      <link>http://localhost:1313/tags/qt/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>m4rsquake@outlook.com (m4rsquake)</author>
-      <guid>http://localhost:1313/tags/qt/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Raspberry Pi</title>
-      <link>http://localhost:1313/tags/raspberry-pi/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>m4rsquake@outlook.com (m4rsquake)</author>
-      <guid>http://localhost:1313/tags/raspberry-pi/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tinkering</title>
-      <link>http://localhost:1313/tags/tinkering/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>m4rsquake@outlook.com (m4rsquake)</author>
-      <guid>http://localhost:1313/tags/tinkering/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tutorial</title>
-      <link>http://localhost:1313/tags/tutorial/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>m4rsquake@outlook.com (m4rsquake)</author>
-      <guid>http://localhost:1313/tags/tutorial/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>
