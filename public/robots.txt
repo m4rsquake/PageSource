@@ -1,3 +1,2 @@
-User-agent: *
-Allow: /
-Sitemap: https://m4rsquake.github.io/sitemap.xml
+User-Agent: *
+Sitemap: http://localhost:1313/sitemap.xml
