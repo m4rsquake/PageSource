@@ -1,7 +1,6 @@
 ---
-title: ""
+title: "主页"
 ---
-
 
 ## 进度
 FPGA <progress value="10" max="100"></progress> 10%
