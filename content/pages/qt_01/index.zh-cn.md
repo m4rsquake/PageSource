@@ -1,9 +1,8 @@
 ---
 title: "Windows 系统上 Qt QProcess setWorkingDirectory 不起作用"
-description: "Windows 系统上 Qt QProcess setWorkingDirectory 不起作用"
 weight: 2
 draft: false
-tags: ["C++", "Qt", "QProcess", "教程"]
+tags: ["C++", "Qt"]
 ---
 
 ### 前言

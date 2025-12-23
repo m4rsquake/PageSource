@@ -40,7 +40,7 @@ smartTOCHideUnfocusedChildren = false
   showScrollToTop = true # 显示回到顶部按钮
 
 [homepage]
-  layout = "background" # valid options: page, profile, hero, card, background, custom
+  layout = "page" # valid options: page, profile, hero, card, background, custom
   # homepageImage = "/img/iceland.jpg" # used in: hero, and card
   showRecent = true # 显示最近文章列表
   showRecentItems = 6

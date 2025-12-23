@@ -1,9 +1,8 @@
 ---
 title: "Qt QProcess setWorkingDirectory Not Working on Windows System"
-description: "Qt QProcess setWorkingDirectory Not Working on Windows System"
 weight: 2
 draft: false
-tags: ["C++", "Qt", "QProcess", "Tutorial"]
+tags: ["C++", "Qt"]
 ---
 
 ### Introduction

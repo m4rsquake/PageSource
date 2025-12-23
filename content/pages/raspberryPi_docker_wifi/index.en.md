@@ -1,9 +1,8 @@
 ---
 title: "Running OpenWrt on Raspberry Pi 4B via Docker for Wireless Routing"
-description: "Running OpenWrt on Raspberry Pi 4B via Docker for Wireless Routing"
 weight: 1
 draft: false
-tags: ["openWrt", "docker", "Raspberry Pi", "Tinkering", "Tutorial"]
+tags: ["openWrt", "docker", "Raspberry Pi", "Tinkering"]
 ---
 
 ### Introduction

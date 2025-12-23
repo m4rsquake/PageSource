@@ -3,197 +3,197 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://m4rsquake.github.io/pages/raspberrypi_docker_wifi/</loc>
+    <loc>http://localhost:1313/pages/raspberrypi_docker_wifi/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://m4rsquake.github.io/zh-cn/pages/raspberrypi_docker_wifi/"
+      href="http://localhost:1313/zh-cn/pages/raspberrypi_docker_wifi/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://m4rsquake.github.io/pages/raspberrypi_docker_wifi/"
+      href="http://localhost:1313/pages/raspberrypi_docker_wifi/"
     />
   </url>
   <url>
-    <loc>https://m4rsquake.github.io/pages/qt_01/</loc>
+    <loc>http://localhost:1313/pages/qt_01/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://m4rsquake.github.io/zh-cn/pages/qt_01/"
+      href="http://localhost:1313/zh-cn/pages/qt_01/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://m4rsquake.github.io/pages/qt_01/"
+      href="http://localhost:1313/pages/qt_01/"
     />
   </url>
   <url>
-    <loc>https://m4rsquake.github.io/pages/</loc>
+    <loc>http://localhost:1313/pages/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://m4rsquake.github.io/zh-cn/pages/"
+      href="http://localhost:1313/zh-cn/pages/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://m4rsquake.github.io/pages/"
+      href="http://localhost:1313/pages/"
     />
   </url>
   <url>
-    <loc>https://m4rsquake.github.io/tags/c&#43;&#43;/</loc>
+    <loc>http://localhost:1313/tags/c&#43;&#43;/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://m4rsquake.github.io/zh-cn/tags/c&#43;&#43;/"
+      href="http://localhost:1313/zh-cn/tags/c&#43;&#43;/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://m4rsquake.github.io/tags/c&#43;&#43;/"
+      href="http://localhost:1313/tags/c&#43;&#43;/"
     />
   </url>
   <url>
-    <loc>https://m4rsquake.github.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://m4rsquake.github.io/zh-cn/categories/"
+      href="http://localhost:1313/zh-cn/categories/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://m4rsquake.github.io/categories/"
+      href="http://localhost:1313/categories/"
     />
   </url>
   <url>
-    <loc>https://m4rsquake.github.io/tags/docker/</loc>
+    <loc>http://localhost:1313/tags/docker/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://m4rsquake.github.io/zh-cn/tags/docker/"
+      href="http://localhost:1313/zh-cn/tags/docker/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://m4rsquake.github.io/tags/docker/"
+      href="http://localhost:1313/tags/docker/"
     />
   </url>
   <url>
-    <loc>https://m4rsquake.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://m4rsquake.github.io/zh-cn/"
+      href="http://localhost:1313/zh-cn/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://m4rsquake.github.io/"
+      href="http://localhost:1313/"
     />
   </url>
   <url>
-    <loc>https://m4rsquake.github.io/tags/openwrt/</loc>
+    <loc>http://localhost:1313/tags/openwrt/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://m4rsquake.github.io/zh-cn/tags/openwrt/"
+      href="http://localhost:1313/zh-cn/tags/openwrt/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://m4rsquake.github.io/tags/openwrt/"
+      href="http://localhost:1313/tags/openwrt/"
     />
   </url>
   <url>
-    <loc>https://m4rsquake.github.io/tags/qprocess/</loc>
+    <loc>http://localhost:1313/tags/qprocess/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://m4rsquake.github.io/zh-cn/tags/qprocess/"
+      href="http://localhost:1313/zh-cn/tags/qprocess/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://m4rsquake.github.io/tags/qprocess/"
+      href="http://localhost:1313/tags/qprocess/"
     />
   </url>
   <url>
-    <loc>https://m4rsquake.github.io/tags/qt/</loc>
+    <loc>http://localhost:1313/tags/qt/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://m4rsquake.github.io/zh-cn/tags/qt/"
+      href="http://localhost:1313/zh-cn/tags/qt/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://m4rsquake.github.io/tags/qt/"
+      href="http://localhost:1313/tags/qt/"
     />
   </url>
   <url>
-    <loc>https://m4rsquake.github.io/tags/raspberry-pi/</loc>
+    <loc>http://localhost:1313/tags/raspberry-pi/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://m4rsquake.github.io/series/</loc>
+    <loc>http://localhost:1313/series/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://m4rsquake.github.io/zh-cn/series/"
+      href="http://localhost:1313/zh-cn/series/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://m4rsquake.github.io/series/"
+      href="http://localhost:1313/series/"
     />
   </url>
   <url>
-    <loc>https://m4rsquake.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://m4rsquake.github.io/zh-cn/tags/"
+      href="http://localhost:1313/zh-cn/tags/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://m4rsquake.github.io/tags/"
+      href="http://localhost:1313/tags/"
     />
   </url>
   <url>
-    <loc>https://m4rsquake.github.io/tags/tinkering/</loc>
+    <loc>http://localhost:1313/tags/tinkering/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://m4rsquake.github.io/tags/tutorial/</loc>
+    <loc>http://localhost:1313/tags/tutorial/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
