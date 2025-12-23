@@ -93,21 +93,6 @@
     />
   </url>
   <url>
-    <loc>http://localhost:1313/zh-cn/pages/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/pages/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="http://localhost:1313/zh-cn/pages/"
-    />
-  </url>
-  <url>
     <loc>http://localhost:1313/zh-cn/tags/openwrt/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
@@ -120,21 +105,6 @@
       rel="alternate"
       hreflang="zh-cn"
       href="http://localhost:1313/zh-cn/tags/openwrt/"
-    />
-  </url>
-  <url>
-    <loc>http://localhost:1313/zh-cn/tags/qprocess/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/tags/qprocess/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="http://localhost:1313/zh-cn/tags/qprocess/"
     />
   </url>
   <url>
@@ -183,12 +153,22 @@
     />
   </url>
   <url>
-    <loc>http://localhost:1313/zh-cn/tags/%E6%8A%98%E8%85%BE/</loc>
+    <loc>http://localhost:1313/zh-cn/pages/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/pages/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="http://localhost:1313/zh-cn/pages/"
+    />
   </url>
   <url>
-    <loc>http://localhost:1313/zh-cn/tags/%E6%95%99%E7%A8%8B/</loc>
+    <loc>http://localhost:1313/zh-cn/tags/%E6%8A%98%E8%85%BE/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>

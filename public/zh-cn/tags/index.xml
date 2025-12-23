@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on m4rsquake 的主页</title>
+    <title>Tags on m4rsquake</title>
     <link>http://localhost:1313/zh-cn/tags/</link>
-    <description>Recent content in Tags on m4rsquake 的主页</description>
+    <description>Recent content in Tags on m4rsquake</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2025 m4rsquake</copyright>
@@ -40,31 +40,11 @@
     </item>
     
     <item>
-      <title>QProcess</title>
-      <link>http://localhost:1313/zh-cn/tags/qprocess/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/zh-cn/tags/qprocess/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Qt</title>
       <link>http://localhost:1313/zh-cn/tags/qt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/zh-cn/tags/qt/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>教程</title>
-      <link>http://localhost:1313/zh-cn/tags/%E6%95%99%E7%A8%8B/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/zh-cn/tags/%E6%95%99%E7%A8%8B/</guid>
       <description></description>
       
     </item>

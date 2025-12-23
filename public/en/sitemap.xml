@@ -123,21 +123,6 @@
     />
   </url>
   <url>
-    <loc>http://localhost:1313/tags/qprocess/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="http://localhost:1313/zh-cn/tags/qprocess/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/tags/qprocess/"
-    />
-  </url>
-  <url>
     <loc>http://localhost:1313/tags/qt/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
@@ -189,11 +174,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/tags/tinkering/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tags/tutorial/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
